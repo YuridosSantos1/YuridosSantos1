@@ -4,6 +4,8 @@
 - 🌱 Estudando JavaScript e C#
 - 😄 Pronouns: ele/dele
 
+![Status do GitHub](./github-stats.svg)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yuri-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
