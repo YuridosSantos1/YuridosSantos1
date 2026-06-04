@@ -1,0 +1,25 @@
+name: Atualizar Status do GitHub
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Executa automaticamente a cada 12 horas
+  workflow_dispatch: # Permite que você rode o script manualmente quando quiser
+
+jobs:
+  atualizar-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Baixar a imagem de status
+        run: |
+          curl "https://github-readme-stats.vercel.app/api?username=YuridosSantos1&show_icons=true&theme=dark" > github-stats.svg
+
+      - name: Salvar e Commitar no repositório
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add github-stats.svg
+          git commit -m "chore: atualizando status do github" || exit 0
+          git push
