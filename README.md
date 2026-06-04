@@ -1,6 +1,6 @@
 ## Olá, eu sou o Yuri 👋
 
-- 🔭 Atualmente tenho experiência com Front-End
+- 🔭 Estudante de Sistemas de Informação
 - 🌱 Estudando JavaScript e C#
 - 😄 Pronouns: ele/dele
 
