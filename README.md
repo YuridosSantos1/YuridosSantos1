@@ -4,7 +4,7 @@
 - 🌱 Estudando JavaScript e C#
 - 😄 Pronouns: ele/dele
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuridosSantos1)](https://github.com/YuridosSantos1/github-readme-stats)
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=YuridosSantos1&show_icons=true&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuridosSantos&show_icons=true)
 
 <div style="display: inline_block"><br>
