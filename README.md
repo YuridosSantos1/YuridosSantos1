@@ -4,7 +4,6 @@
 - 🌱 Estudando JavaScript e C#
 - 😄 Pronouns: ele/dele
 
-![Status do GitHub](https://meus-status-github-one.vercel.app/api?username=YuridosSantos1&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
